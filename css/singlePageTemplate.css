@@ -78,6 +78,10 @@ ul li:hover a {
 	padding-bottom: 150px;
 }
 
+.img .hero {
+align: center;
+}
+
 .myName { 
 	width: auto;
 	align-content: flex-end;
